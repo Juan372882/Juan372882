@@ -37,7 +37,7 @@ I consider myself a creative person, so I am currently studying AI Gen and AI TR
 ## 📫 Connect with me
 
 <p align="center">
-  <a href="www.linkedin.com/in/juan-manuel3728825">
+  <a href="https://www.linkedin.com/in/juan-manuel3728825/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>&nbsp;&nbsp;
   <a href="https://discord.com/users/1278428808780845106">
