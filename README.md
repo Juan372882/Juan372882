@@ -25,7 +25,7 @@ I consider myself a creative person, so I am currently studying AI Gen and AI TR
   <img src="https://github-readme-stats.vercel.app/api?username=Juan372882&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false" />
   <br/>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Juan372882&theme=blueberry&hide_border=false" />
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=Juan372882&theme=dark)](https://git.io/streak-stats)
   <br/>
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juan372882&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
