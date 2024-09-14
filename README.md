@@ -47,4 +47,17 @@ I consider myself a creative person, so I am currently studying AI Gen and AI TR
 
 <br/>
 
+---
+
+
+## 📫 🐍 My Contributions 🐍
+
+<br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Juan372882/Juan372882/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+<hr/>
+
 ![Visitas al perfil](https://komarev.com/ghpvc/?username=Juan372882)
