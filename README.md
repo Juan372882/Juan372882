@@ -58,6 +58,4 @@ I consider myself a creative person, so I am currently studying AI Gen and AI TR
   <br/><br/><br/>
 </div>
 
-<hr/>
-
 ![Visitas al perfil](https://komarev.com/ghpvc/?username=Juan372882)
